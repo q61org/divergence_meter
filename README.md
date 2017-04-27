@@ -1,4 +1,4 @@
-# Divergence Meter Project (by q61.org)
+﻿# Divergence Meter Project (by q61.org)
 
 This is yet another divergence meter project.
 
@@ -46,6 +46,8 @@ This project was inspired by following projects:
 
 There is no warranty, expressed or implied, associated with files in this project. Especially there is a high voltage shock hazard which can kill you. Use at your own risk. 
 
+
+## Author
 
 Kouichi Kuroi (q61.org)
 - Twitter: https://twitter.com/q61501331

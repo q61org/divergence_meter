@@ -27,9 +27,9 @@ The MCP73831 chip controls only charging from the USB connector;
 it automatically stops charging when the battery is full, 
 but it does not stop discharging when the battery is empty.
 
-*There is no overdischarge protection on this board.* 
-Therefore you *MUST* use a battery with a built-in
-overdischarge protection. *DO NOT USE RAW CELLS!*
+**There is no overdischarge protection on this board.**
+Therefore you **MUST** use a battery with a built-in
+overdischarge protection. **DO NOT USE RAW CELLS!**
 
 Connector P2 is a 2-pin PH connector. This is a standard connector
 for commonly available pouched LiPo cells. These batteries
@@ -37,7 +37,7 @@ usually have protection circuits, but double-check it before
 you actually use one.
 
 
-## DC/DC Converters
+### DC/DC Converters
 
 This board has two DC/DC converters on board, a boost converter
 that generates 180V for igniting nixie tubes, and a buck converter
@@ -50,7 +50,7 @@ When the converter is powered up without any load, it can charge
 the capacitors to their maximum capacity. This charge will remain 
 in the capacitors after the converter is powered down, 
 and when you touch them, all the charge can go through you.
-This can be very, very bad.
+This can be very bad.
 
 When handling this board, always make sure that the power is off,
 and that capacitors are discharged.
