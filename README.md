@@ -29,10 +29,10 @@ dm_control board has a microcontroller, and its firmware is in the following sub
 ## License
 
 Schematics and PCB, and firmware are licensed under different licenses:
-- Schematics and PCB files are licensed under Creative Commons BY-SA 4.0.
+- Schematics and PCB files are licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - Firmware is licensed under the BSD license. 
 
-Please see LICENSE files in respective directories.
+Please see README.md and LICENSE files in respective directories.
 
 
 ## See Also
