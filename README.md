@@ -13,7 +13,7 @@ The result, a completed divergence meter can be seen below.
 ![divergence meter with an anime screen capture](http://q61.org/dm/dm_3757.jpg)
 
 
-* Files in This Repository
+## Files in This Repository
 
 This repository contains schematics, PCB files and a firmware of the divergence meter. Chassis design is left as an exercise to makers (forks and pull requests are welcome!).
 
@@ -26,7 +26,7 @@ dm_control board has a microcontroller, and its firmware is in the following sub
 - dm_firmware: Firmware for dm_control board.
 
 
-* License
+## License
 
 Schematics and PCB, and firmware are licensed under different licenses:
 - Schematics and PCB files are licensed under Creative Commons BY-SA 4.0.
@@ -35,14 +35,14 @@ Schematics and PCB, and firmware are licensed under different licenses:
 Please see LICENSE files in respective directories.
 
 
-* See Also
+## See Also
 
 This project was inspired by following projects:
 - [Divergence Meter Project](http://www.mindspring.com/~tomtitor/)
 - [世界线变动率探测仪 | Divergence Meter](http://www.nixieclock.org/?cat=219)
 
 
-* Disclaimer
+## Disclaimer
 
 There is no warranty, expressed or implied, associated with files in this project. Especially there is a high voltage shock hazard which can kill you. Use at your own risk. 
 

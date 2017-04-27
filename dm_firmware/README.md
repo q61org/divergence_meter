@@ -5,7 +5,7 @@ This is a firmware for ATmega chip on dm_control board.
 It is intended to be compiled with Atmel Studio 7, but you can also compile it with standard avr-gcc (with some command line options).
 You can first burn a bootloader (such as Arduino or Optiboot) onto the ATmega so that firmware upgrade can be done via USB.
 
-* Fuse Settings
+## Fuse Settings
 
 This firmware does not handle WDT. WDT must be turned off.
 
@@ -19,7 +19,7 @@ If you use Arduino bootloader, the following fuse settings is good:
 - High bits: 0xDA
 - Low bits: 0xFF
 
-* Functions
+## Functions
 
 The firmware has very limited set of functions.
 
@@ -36,6 +36,6 @@ In demo mode, divergence value changes every about 20 seconds.
 
 
 
-* License
+## License
 
 Files in this directory are licensed under BSD license.

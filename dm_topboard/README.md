@@ -11,6 +11,6 @@ perfboard on top of the divergence meter in the anime:
 
 Mounting holes are for M2.6 screws.
 
-* License
+## License
 
 Files in this directory are licensed under Creative Commons BY-SA 4.0.
